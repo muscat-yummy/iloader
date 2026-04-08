@@ -41,8 +41,8 @@
     "livecontainer_sidestore_nightly": "LiveContainer + SideStore (Nightly)",
     "import_ipa": "IPAをインポート",
     "settings": "設定",
-    "must_be_logged_in": "ログインが必要です！",
-    "must_select_device": "デバイスを選択してください！",
+    "must_be_logged_in": "ログインが必要です。",
+    "must_select_device": "デバイスを選択してください。",
     "ipa_files": "IPAファイル",
     "logo_alt": "iloader ロゴ"
   },
